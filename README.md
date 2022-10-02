@@ -8,6 +8,13 @@
 ### :woman_technologist: About Me :
 
 
+
+
+
+
+
+
+
  Technically I'm a human being. But you ain't ready for that discussion.
  
  - Physchologically, I think a hummingbird suits me more,
