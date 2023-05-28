@@ -7,28 +7,31 @@
 
 ### :woman_technologist: About Me :
 
+gather 'round and hear,
+The tale of callmeproteus, the developer without fear.
+With keyboard in hand and mischief in his eye,
+
+In the vast sea of code, he's a mythical force,
+A shape-shifting Proteus, changing language, of course.
+From HTML to CSS, he tames them all,
+JavaScript? Just a challenge, he'll never fall!
+
+He battles bugs with wit, like a true coding knight,
+Crafting web and mobile wonders, oh, what a sight!
+Responsive design is his breezy breeze,
+He dances with algorithms, oh, how he teases!
+
+APIs and databases, he conquers with glee,
+Machine learning and AR? No problem, you'll see.
+His GitHub is a treasure trove of delight,
+Filled with repositories, shining so bright.
+
+Hail callmeproteus, the mythical dev,
+
+Poem By Jafeth Yahuma.
 
 
-
-
-
-
-
-
- Technically I'm a human being. But you ain't ready for that discussion.
- 
- - Physchologically, I think a hummingbird suits me more,
-- while the bird may appear stationary in the air, not doing much, its wings flap at around 50 flaps/sec <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.     WAITTT !! Before you google that ::
-
-- Am a well rounded developer with experience in developing slick, interactive interfaces and feature rich webapps, to problem diagnosis,
-- maintaining and scalling sites. I find that my clients pride in my urgency and time counciousness when handling their merchandise.
-
-
-
-
-
-
-
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.     ::
 
 
 
