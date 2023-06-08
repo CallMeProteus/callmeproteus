@@ -62,7 +62,5 @@ Poem By Jafeth Yahuma.
 </div>
 
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=callmeproteus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
